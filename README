@@ -1,0 +1,6 @@
+External libraries:
+
+1. Import existing projects from external-lib/.
+
+2. Add external libraries from:
+Project properties -> Android -> Library -> Add... -> external-lib/
